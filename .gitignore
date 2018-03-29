@@ -1,0 +1,50 @@
+﻿# Compiled class file
+*.class
+
+#忽略.properties
+*.properties
+
+#忽略.classpath
+*.classpath
+
+#忽略.project 
+*.project
+
+#忽略.mymetadata
+*.mymetadata
+
+#忽略.settings
+.settings/
+
+#忽略.jsdtscope
+*.jsdtscope
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+/nb-configuration.xml
+/nbactions.xml
+/target/
+/bin
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
