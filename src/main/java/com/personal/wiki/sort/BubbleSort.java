@@ -8,7 +8,7 @@ import java.util.Random;
  *
  * @author L.X <gugia@qq.com>
  */
-public class Bubble {
+public class BubbleSort {
 
     static Random rand = new Random();
     static final int NUM = 50000;
